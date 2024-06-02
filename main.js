@@ -8,6 +8,7 @@ div.style.position = 'fixed';
 div.style.bottom = '0';
 div.style.right = '0';
 div.style.fontSize = '13px';
+div.style.color = 'black';
 div.innerHTML = `
 <div id="copyRangeHashTag">
 <button id="copyBtnTwitterTemp">Copy</button>
